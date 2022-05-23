@@ -1,0 +1,12 @@
+documentclass: apa7
+classoption: stu
+author: Jefté Mendoza, Rosaura Acuña, Saray Méndez, Dylan Solis
+header-includes: |
+    \affiliation{Liceo Experimenal Bilingüe Los Angeles}
+    \duedate{2022}
+    \course{Civica}
+    \professor{Natalia Zuñiga}
+title: Biografia de Mijaíl Gorbachov
+bibliography: bibliografia.bib
+nocite: |
+    @*
